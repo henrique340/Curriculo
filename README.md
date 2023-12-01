@@ -62,6 +62,8 @@ My name is Henrique and I am a Student of Computer Science that loves to learn n
   * Portuguese
   * Spanish
 * Programming Logic
+* Ease of interaction with people
+* Office package
   
 ### Front-end
 * HTML
