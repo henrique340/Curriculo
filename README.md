@@ -1,8 +1,8 @@
 # Henrique Yuji Isogai Yoneoka
 Cumputer Science Student - Front-end and Back-end
 
-:house:     São Paulo/ SP
-:iphone:    +55(11)992514110
+:house:     São Paulo/ SP <br>
+:iphone:    +55(11)992514110 <br>
 :envelope:  Henriqueyuji8@gmail.com
 
 My name is Henrique and I am a Student of Computer Science that loves to learn new languages and resources to solve problems.
@@ -72,13 +72,27 @@ My name is Henrique and I am a Student of Computer Science that loves to learn n
 ### Back-end
 * Python
 * R
-* C
-* C++
+* C/C++
 
 ### Frameworks Front-end
 * Reac.js
 
 ### Courses
 * Taking a Google Cloud Course
-* Taking a Amazon Cloud Course
+* Taking an Amazon Cloud Course (AWS)
 
+### institutions 
+* MackLeaps
+  * This is a software residency that i am part of
+  * We do several projects aimed at college
+    * Website for a weather station
+    * Carousel on college televisions
+    * Software that helps in building the Final Paper
+    * People Counter in Classrooms
+* Movimento Jovem
+  * This is a entity of teenagers that i am part of
+  * We do volunteer work and do integration events
+
+## Social Midia
+* [Instagram] (https://www.instagram.com/henriqueyuji8/)
+* [Linkedin] (https://www.linkedin.com/in/henrique-yoneoka-05621a266/)
