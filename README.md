@@ -1,5 +1,5 @@
 # Henrique Yuji Isogai Yoneoka
-Cumputer Science Student - Front-end and Back-end
+Cumputer Science Student - Front-end and Back-end - Universidade Presbiteriana MAckenzie
 
 :house:     São Paulo/ SP <br>
 :iphone:    +55(11)992514110 <br>
