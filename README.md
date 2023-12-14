@@ -5,11 +5,6 @@ Estudante de Ciências da Computação - Front-end e Back-end - Universidade Pre
 :iphone:    +55(11)992514110 <br>
 :envelope:  Henriqueyuji8@gmail.com
 
-#### Legenda
-* :heavy_check_mark:  Completo
-* :heavy_plus_sign:   Em progresso
-* :heavy_minus_sign:  Não iniciado
-
 ## Conhecimento
 
 ### Geral
