@@ -1,74 +1,30 @@
 # Henrique Yuji Isogai Yoneoka
-Cumputer Science Student - Front-end and Back-end - Universidade Presbiteriana MAckenzie
+Estudante de Ciências da Computação - Front-end e Back-end - Universidade Presbiteriana MAckenzie
 
 :house:     São Paulo/ SP <br>
 :iphone:    +55(11)992514110 <br>
 :envelope:  Henriqueyuji8@gmail.com
 
-My name is Henrique and I am a Student of Computer Science that loves to learn new languages and resources to solve problems.
+#### Legenda
+* :heavy_check_mark:  Completo
+* :heavy_plus_sign:   Em progresso
+* :heavy_minus_sign:  Não iniciado
 
-## Subjects
+## Conhecimento
 
-#### Legend
-* :heavy_check_mark:  Complete
-* :heavy_plus_sign:   In progress
-* :heavy_minus_sign:  Not started
-
-### Computer Cience Graduation
-
-| Name                                                                        | Period | concluded?
-| --------------------------------------------------------------------------- |:---:| :----------------: |
-| Fundamentals of Computing                                                   | 1   | :heavy_check_mark: |
-| Algorithm and Programming I                                                 | 1   | :heavy_check_mark: |
-| Electrical and Electronic Circuits                                          | 1   | :heavy_check_mark: |
-| Ethic                                                                       | 1   | :heavy_check_mark: |
-| Discrete Mathematics I                                                      | 1   | :heavy_check_mark: |
-| Science, Technology and Society                                             | 1   | :heavy_check_mark: |
-| Algorithm and Programming II                                                | 2   | :heavy_check_mark: |
-| Discrete Mathematics II                                                     | 2   | :heavy_check_mark: |
-| Boolean Algebra and Digital Circuits                                        | 2   | :heavy_check_mark: |
-| Data Analysis                                                               | 2   | :heavy_check_mark: |
-| Introduction to the Reformed Worldview                                      | 2   | :heavy_check_mark: |
-| Computer Organization                                                       | 3   | :heavy_minus_sign: |
-| Mathematical Modeling I                                                     | 3   | :heavy_minus_sign: |
-| Algorithm Analysis                                                          | 3   | :heavy_minus_sign: |
-| Data Structure I                                                            | 3   | :heavy_minus_sign: |
-| Databases                                                                   | 3   | :heavy_minus_sign: |
-| Operational System                                                          | 4   | :heavy_minus_sign: |
-| Mathematical Modeling II                                                    | 4   | :heavy_minus_sign: |
-| Numerical Algorithm                                                         | 4   | :heavy_minus_sign: |
-| Data Structure II                                                           | 4   | :heavy_minus_sign: |
-| Algorithm Analysis II                                                       | 4   | :heavy_minus_sign: |
-| Software Engineer                                                           | 5   | :heavy_minus_sign: |
-| Computer Network                                                            | 5   | :heavy_minus_sign: |
-| Principles of Entrepreneurship                                              | 5   | :heavy_minus_sign: |
-| Formal and Autonomous Languages                                             | 5   | :heavy_minus_sign: |
-| Parallel Computing                                                          | 5   | :heavy_minus_sign: |
-| Computing Language Paradigms                                                | 5   | :heavy_minus_sign: |
-| Software Engineer Laboratory                                                | 6   | :heavy_minus_sign: |
-| Compilers                                                                   | 6   | :heavy_minus_sign: |
-| Theory of Graphs                                                            | 6   | :heavy_minus_sign: |
-| Human - Computer Interaction                                                | 6   | :heavy_minus_sign: |
-| Distributed Computing                                                       | 6   | :heavy_minus_sign: |
-| Artificial Inteligence                                                      | 7   | :heavy_minus_sign: |
-| Visual Computing                                                            | 7   | :heavy_minus_sign: |
-| Computing Theory                                                            | 7   | :heavy_minus_sign: |
-
-## Knowledge
-
-### General
-* Idioms
-  * English
+### Geral
+* Idiomas
+  * Inglês
   * Portuguese
-  * Spanish
-* Programming Logic
-* Ease of interaction with people
-* Office package
+  * Espanhol
+* Logica de programação
+* Fácil interação com pessoas 
+* Pacote office 
   
 ### Front-end
 * HTML
 * CSS
-    * Resposive Design
+    * Disign responsivo
 * JavaScript
     
 ### Back-end
@@ -79,22 +35,22 @@ My name is Henrique and I am a Student of Computer Science that loves to learn n
 ### Frameworks Front-end
 * Reac.js
 
-### Courses
-* Taking a Google Cloud Course
-* Taking an Amazon Cloud Course (AWS)
+### Cursos
+* Fazendo Google Cloud Academy Course
+* Fazendo Amazon Cloud Academy Course (AWS)
 
-### institutions 
+### instituições 
 * MackLeaps
-  * This is a software residency that i am part of
-  * We do several projects aimed at college
-    * Website for a weather station
-    * Carousel on college televisions
-    * Software that helps in building the Final Paper
-    * People Counter in Classrooms
+  * O Mackleaps é uma residência de software da minha faculdade que eu faço parte
+  * Nós realizamos projetos que auxiliam o dia a dia na faculdade
+    * Aplicativo de estação meteorológica
 * Movimento Jovem
   * This is a entity of teenagers that i am part of
-  * We do volunteer work and do integration events
-
-## Social Midia
+  * Essa é uma instituição de jovens japoneses que eu faço parte
+  * Nós realizamos
+    * Trabalhos voluntários
+    * Eventos de integração entre jovens 
+    
+## Redes sociais
 * [Instagram] (https://www.instagram.com/henriqueyuji8/)
 * [Linkedin] (https://www.linkedin.com/in/henrique-yoneoka-05621a266/)
