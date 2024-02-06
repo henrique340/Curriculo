@@ -40,7 +40,6 @@ Estudante de Ciências da Computação - Front-end e Back-end - Universidade Pre
   * Nós realizamos projetos que auxiliam o dia a dia na faculdade
     * Aplicativo de estação meteorológica
 * Movimento Jovem
-  * This is a entity of teenagers that i am part of
   * Essa é uma instituição de jovens japoneses que eu faço parte
   * Nós realizamos
     * Trabalhos voluntários
