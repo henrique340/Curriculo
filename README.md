@@ -1,5 +1,5 @@
 # Henrique Yuji Isogai Yoneoka
-Estudante de Ciências da Computação - Front-end e Back-end - Universidade Presbiteriana MAckenzie
+Estudante de Ciências da Computação - Front-end e Back-end - Universidade Presbiteriana Mackenzie
 
 :house:     São Paulo/ SP <br>
 :iphone:    +55(11)992514110 <br>
@@ -10,7 +10,7 @@ Estudante de Ciências da Computação - Front-end e Back-end - Universidade Pre
 ### Geral
 * Idiomas
   * Inglês
-  * Portuguese
+  * Portugues
   * Espanhol
 * Logica de programação
 * Fácil interação com pessoas 
@@ -37,7 +37,7 @@ Estudante de Ciências da Computação - Front-end e Back-end - Universidade Pre
 
 ### instituições 
 * MackLeaps
-  * O Mackleaps é uma residência de software da minha faculdade que eu faço parte
+  * O MackLeaps é uma residência de software da minha faculdade que eu faço parte
   * Nós realizamos projetos que auxiliam o dia a dia na faculdade
     * Aplicativo de estação meteorológica
       
