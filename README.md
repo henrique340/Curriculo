@@ -33,17 +33,32 @@ Estudante de Ciências da Computação - Front-end e Back-end - Universidade Pre
 ### Cursos
 * Fazendo Google Cloud Academy Course
 * Fazendo Amazon Cloud Academy Course (AWS)
+* Concluído Cibersecurity Essentials da Cisco Networking Academy
 
 ### instituições 
 * MackLeaps
   * O Mackleaps é uma residência de software da minha faculdade que eu faço parte
   * Nós realizamos projetos que auxiliam o dia a dia na faculdade
     * Aplicativo de estação meteorológica
+      
 * Movimento Jovem
   * Essa é uma instituição de jovens japoneses que eu faço parte
   * Nós realizamos
     * Trabalhos voluntários
-    * Eventos de integração entre jovens 
+    * Eventos de integração entre jovens
+   
+* Abeuni
+  * É uma ONG de voluntários
+  * Participação
+    * Como auxiliar de dentista
+    * Como auxiliar de oftalmologista
+    * Como auxiliar de enfermeiro
+    * Como recreação para crianças
+    * No preenchimento do formulário de cadastro dos pacientes
+    * Na educação de crianças sobre nutrição
+    * Na educação de crianças sobre escovação dentária
+    * Na educação sexual de jovens e adolescentes
+    * No trabalho de campo distribuindo panfletos sobre o voluntário 
     
 ## Redes sociais
 * [Instagram] (https://www.instagram.com/henriqueyuji8/)
