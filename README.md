@@ -1,5 +1,6 @@
 # Henrique Yuji Isogai Yoneoka
 Estudante de Ciências da Computação - Front-end e Back-end - Universidade Presbiteriana Mackenzie
+Python | C | Java | JS | React.js 
 
 :house:     São Paulo/ SP <br>
 :iphone:    +55(11)992514110 <br>
