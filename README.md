@@ -32,8 +32,6 @@ Python | C | Java | JS | React.js
 * Reac.js
 
 ### Cursos
-* Fazendo Google Cloud Academy Course
-* Fazendo Amazon Cloud Academy Course (AWS)
 * Concluído Cibersecurity Essentials da Cisco Networking Academy
 
 ### instituições 
