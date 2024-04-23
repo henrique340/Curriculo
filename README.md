@@ -27,6 +27,7 @@ Python | C | Java | JS | React.js
 * Python
 * R
 * C/C++
+Java
 
 ### Frameworks Front-end
 * Reac.js
