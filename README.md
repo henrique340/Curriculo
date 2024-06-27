@@ -34,10 +34,10 @@ Java
 ### Frameworks Front-end
 * Reac.js
 
-### Cursos
+## Cursos
 * Concluído Cibersecurity Essentials da Cisco Networking Academy
 
-### instituições 
+## instituições 
 * MackLeaps
   * O MackLeaps é uma residência de software da minha faculdade que eu faço parte
   * Nós realizamos projetos que auxiliam o dia a dia na faculdade
