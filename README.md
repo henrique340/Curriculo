@@ -2,9 +2,11 @@
 Estudante de Ciências da Computação - Front-end e Back-end - Universidade Presbiteriana Mackenzie
 Python | C | Java | JS | React.js 
 
-:house:     São Paulo/ SP <br>
-:iphone:    +55(11)992514110 <br>
-:envelope:  Henriqueyuji8@gmail.com
+# Lista de Conteudos
+- [Conhecimento](#Conhecimento)
+- [Cursos](#Cursos)
+- [Instituições](#Instituições)
+- [Contato](#Contato)
 
 ## Conhecimento
 
@@ -60,6 +62,10 @@ Java
     * Na educação sexual de jovens e adolescentes
     * No trabalho de campo distribuindo panfletos sobre o voluntário 
     
-## Redes sociais
+
+## Contato
+:house:     São Paulo/ SP <br>
+:iphone:    +55(11)992514110 <br>
+:envelope:  Henriqueyuji8@gmail.com
 * [Instagram] (https://www.instagram.com/henriqueyuji8/)
 * [Linkedin] (https://www.linkedin.com/in/henrique-yoneoka-05621a266/)
