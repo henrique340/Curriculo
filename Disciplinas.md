@@ -20,16 +20,16 @@
 | BAlgebra Booleana e Circuitos Digitais                                      | 2   | :heavy_check_mark: |
 | Análise de Dados                                                            | 2   | :heavy_check_mark: |
 | Introdução a Cosmovisão Reformada                                           | 2   | :heavy_check_mark: |
-| Organização Computacional                                                   | 3   | :heavy_minus_sign: |
-| Modelagem MAtemática I                                                      | 3   | :heavy_minus_sign: |
-| Análise de Algorítimo                                                       | 3   | :heavy_minus_sign: |
-| Estrutura de Dados I                                                        | 3   | :heavy_minus_sign: |
-| Banco de Dados                                                              | 3   | :heavy_minus_sign: |
-| Sistema Operacional                                                         | 4   | :heavy_minus_sign: |
-| Modelagem Matemática II                                                     | 4   | :heavy_minus_sign: |
-| Algorítimo Numérico                                                         | 4   | :heavy_minus_sign: |
-| Estrutura de Dados II                                                       | 4   | :heavy_minus_sign: |
-| Análise de Algorítimos II                                                   | 4   | :heavy_minus_sign: |
+| Organização Computacional                                                   | 3   | :heavy_check_mark: |
+| Modelagem MAtemática I                                                      | 3   | :heavy_check_mark: |
+| Análise de Algorítimo                                                       | 3   | :heavy_check_mark: |
+| Estrutura de Dados I                                                        | 3   | :heavy_check_mark: |
+| Banco de Dados                                                              | 3   | :heavy_check_mark: |
+| Sistema Operacional                                                         | 4   | :heavy_check_mark: |
+| Modelagem Matemática II                                                     | 4   | :heavy_check_mark: |
+| Algorítimo Numérico                                                         | 4   | :heavy_check_mark: |
+| Estrutura de Dados II                                                       | 4   | :heavy_check_mark: |
+| Análise de Algorítimos II                                                   | 4   | :heavy_check_mark: |
 | Engenharia de Software                                                      | 5   | :heavy_minus_sign: |
 | Rede de Computadores                                                        | 5   | :heavy_minus_sign: |
 | Princípios de Empreendedorismo                                              | 5   | :heavy_minus_sign: |
