@@ -17,19 +17,26 @@ Python | C | Java | JS | React.js
   * Espanhol
 * Logica de programação
 * Fácil interação com pessoas 
-* Pacote office 
+* Pacote office
+  * Excel avançado
   
 ### Front-end
 * HTML
 * CSS
     * Disign responsivo
 * JavaScript
+    * React.js
     
 ### Back-end
 * Python
 * R
 * C/C++
-Java
+- Java
+
+### Database
+- Redis
+- Faircom
+- SQLite (Python)
 
 ### Frameworks Front-end
 * Reac.js
